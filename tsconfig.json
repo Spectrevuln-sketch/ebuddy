@@ -9,7 +9,6 @@
     "resolveJsonModule" : true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["apps/backend-repo/*"],
       "@/backend/*": ["apps/backend-repo/*"],
       "@/frontend/*": ["apps/frontend-repo/*"],
       "@/packages/*": ["./packages/*"]
